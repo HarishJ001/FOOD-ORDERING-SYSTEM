@@ -1,5 +1,4 @@
 # 🍔 Quite Bite
-Overview
 
 Quite Bite (internally named Tasty Treat Express) is a full-stack online food ordering platform built to provide a scalable, efficient, and user-friendly experience for customers and restaurant owners alike.
 
